@@ -5,7 +5,7 @@
 
 
 
-1. Creat generate code for your website
+1. Creat/Generate code for your website
 2. Go to Cloud Providers or website Host providers
 3. Link your GitHub/ account or Upload your code.
 4. hosting plateform will build website for you and provide you a URL for your Website
